@@ -59,7 +59,7 @@ const char *password = "epicure2022";
 
 // MQTT Broker settingsf
 //const char *machine_id = "68ea96604fb45c0fc7074c73"; //1
-const char *machine_id = "69535d8b0e9374c55fb5e943"; //2
+const char *machine_id = "695361820e9374c55fb5f493"; //2
 const char *mqtt_broker = "jedfe9bd.ala.asia-southeast1.emqxsl.com";
 char mqtt_topic[64];
 char mqtt_tab_fb_topic[64];
